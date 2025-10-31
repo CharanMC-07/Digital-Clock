@@ -1,6 +1,5 @@
 # Digital-Clock
 The Digital Clock project is a simple yet visually appealing web-based application created using HTML, CSS, and JavaScript. Its primary objective is to display the current system time in a dynamic and digital format that automatically updates every second to show real-time changes. 
-Here’s a clean and professional **README.md** file for your **Digital Clock** project — perfect for GitHub or any project submission 👇
 
 ---
 
