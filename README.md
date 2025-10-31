@@ -58,7 +58,7 @@ Digital-Clock/
 1. Download or clone this repository:
 
    ```bash
-   git clone https://github.com/CharanMC-07/digital-clock.git
+    https://github.com/CharanMC-07/Digital-Clock
    ```
 2. Open the folder in your code editor.
 3. Open the `index.html` file in your browser.
